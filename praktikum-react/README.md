@@ -10,9 +10,6 @@ npm install
 npm run dev
 ```
 
-Buka URL Local yang tampil di terminal (biasanya http://localhost:5173).
-Pemeriksaan tambahan: `npm run build`, `npm run preview`, `npm run lint`.
-
 ## Isi proyek
 
 `src/App.jsx` berisi hasil akhir Tugas 4 (Daftar Tugas Kuliah + filter
